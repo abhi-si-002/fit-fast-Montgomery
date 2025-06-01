@@ -221,7 +221,7 @@ export default function Home() {
         <div className="max-w-3xl mx-auto text-center">
           <h2 className="text-4xl font-bold mb-6 text-[#ffffff]">About Fit Fast</h2>
           <p className="text-[#ffffff]/80 text-lg leading-relaxed">
-            At Fit Fast, we're dedicated to transforming lives through fitness. Our expert trainers provide personalized attention and motivation to help you reach your fitness goals. Whether you're looking to lose weight, build muscle, or improve your overall health, we have the programs and support you need to succeed.
+            At Fit Fast, we are dedicated to transforming lives through fitness. Our expert trainers provide personalized attention and motivation to help you reach your fitness goals. Whether you are looking to lose weight, build muscle, or improve your overall health, we have the programs and support you need to succeed.
           </p>
         </div>
       </section>
